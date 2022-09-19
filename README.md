@@ -1,6 +1,3 @@
-##Profolio Project
-
-
 本計畫主要會運用到 SQL 與 Tableau，
 資料的來源為 ourworldindata.org，透過SQL清理彙整成我們需要製作圖表的素材，
 再以Tableau將素材視覺化呈現出來。
