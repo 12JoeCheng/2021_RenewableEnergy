@@ -11,3 +11,6 @@
 3.2021RenewableEnergy.twbx  --最後透過Tableau製作圖表結果的.twbx檔。
 
 4.2021RenewableEnergy.png  --圖表結果.png檔。
+
+結果輸人連結： 
+https://public.tableau.com/app/profile/12joe/viz/2021RenewableEnergy/Dashboard1
