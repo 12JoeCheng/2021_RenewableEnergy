@@ -12,5 +12,8 @@
 
 4.2021RenewableEnergy.png  --圖表結果.png檔。
 
-結果輸人連結： 
+作品詳細資訊可至以下連結： 
 https://public.tableau.com/app/profile/12joe/viz/2021RenewableEnergy/Dashboard1
+
+
+![image](https://github.com/12JoeCheng/2021_RenewableEnergy/blob/main/2021RenewableEnergy.png)
