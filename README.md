@@ -16,4 +16,4 @@
 https://public.tableau.com/app/profile/12joe/viz/2021RenewableEnergy/Dashboard1
 
 
-![image](https://github.com/12JoeCheng/2021_RenewableEnergy/blob/main/2021RenewableEnergy.png)
+![image](https://github.com/12JoeCheng/2021_RenewableEnergy/blob/main/2021全球再生能源.png)
