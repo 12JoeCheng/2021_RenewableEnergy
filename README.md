@@ -8,9 +8,9 @@
 
 2.ProfolioProject.sql  --透過Mysql workbench整理並輸出成View的過程紀錄。
 
-3.2021RenewableEnergy.twbx  --最後透過Tableau製作圖表結果的.twbx檔。
+3.2021全球再生能源.twbx  --最後透過Tableau製作圖表結果的.twbx檔。
 
-4.2021RenewableEnergy.png  --圖表結果.png檔。
+4.2021全球再生能源.png  --圖表結果.png檔。
 
 作品詳細資訊可至以下連結： 
 https://public.tableau.com/app/profile/12joe/viz/2021RenewableEnergy/Dashboard1
